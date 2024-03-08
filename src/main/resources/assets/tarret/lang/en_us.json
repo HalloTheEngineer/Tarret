@@ -1,0 +1,8 @@
+{
+  "key.tarret.admin": "Login",
+  "button.tarret.login": "Login",
+  "button.tarret.fps": "FPS",
+  "chat.tarret.missing_target": "Your requested target is invalid!",
+  "chat.tarret.invalid_token": "Your access token is invalid!",
+  "chat.tarret.ongoing_request": "You have an ongoing request!"
+}
